@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cybor/static/css/main.50ff7a30.css",
+    "main.js": "/cybor/static/js/main.60a8f8a0.js",
+    "static/media/banner-bg.jpg": "/cybor/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-05.jpg": "/cybor/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/popular-06.jpg": "/cybor/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-02.jpg": "/cybor/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/cybor/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/cybor/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-03.jpg": "/cybor/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/cybor/index.html",
+    "main.50ff7a30.css.map": "/cybor/static/css/main.50ff7a30.css.map",
+    "main.60a8f8a0.js.map": "/cybor/static/js/main.60a8f8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ff7a30.css",
+    "static/js/main.60a8f8a0.js"
+  ]
+}
